@@ -1,5 +1,16 @@
 [
   {
+    "id": "item_1764958246142_iqrl7cwri",
+    "name": "SNT ANANDI",
+    "quantity": 6,
+    "group": "RAW MATERIAL",
+    "details": "",
+    "createdAt": "2025-12-05T18:10:46.143Z",
+    "updatedAt": "2025-12-05T18:10:46.154Z",
+    "synced": false,
+    "pending": true
+  },
+  {
     "id": "item_1764957713070_zssf8sotw",
     "name": "SNT ANANDI",
     "quantity": 5,
