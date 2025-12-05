@@ -28,5 +28,16 @@
     "timestamp": "2025-12-05T21:52:19.297Z",
     "updatedAt": "2025-12-05T21:52:19.297Z",
     "batchTime": "2025-12-05T21:52:21.418Z"
+  },
+  {
+    "id": "ITEM_1764976329425_5QHO1F",
+    "name": "SNT KAJAL",
+    "quantity": 25,
+    "group": "S",
+    "details": "GORGET SUITE",
+    "timestamp": "2025-12-05T23:12:09.418Z",
+    "updatedAt": "2025-12-05T23:12:09.418Z",
+    "batchTime": "2025-12-05T23:12:11.042Z",
+    "batchStatus": "PENDING"
   }
 ]
