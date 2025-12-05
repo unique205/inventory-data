@@ -1,5 +1,16 @@
 [
   {
+    "id": "item_1764963572928_zlfdaj3dz",
+    "name": "MERAJ",
+    "quantity": 4,
+    "group": "RAW MATERIAL",
+    "details": "FASD",
+    "createdAt": "2025-12-05T19:39:32.928Z",
+    "updatedAt": "2025-12-05T19:39:32.928Z",
+    "synced": false,
+    "pending": true
+  },
+  {
     "id": "item_1764958246142_iqrl7cwri",
     "name": "SNT ANANDI",
     "quantity": 6,
