@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "item_1764959856618_e56ph4g2t",
+    "name": "SNT ANANDI",
+    "quantity": 4,
+    "group": "ASDLJK",
+    "details": "LKD;JFAS",
+    "addedAt": "2025-12-05T18:37:37.642Z",
+    "status": "pending",
+    "synced": true,
+    "addedBy": "Staff (Desktop)",
+    "location": "Unknown"
+  }
+]
