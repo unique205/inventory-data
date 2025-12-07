@@ -20,5 +20,159 @@
     "updatedAt": "2025-12-06T04:13:47.524Z",
     "batchTime": "2025-12-06T04:13:48.877Z",
     "batchStatus": "APPROVED"
+  },
+  {
+    "id": "ITEM_1765108590115_5Z3TVZ",
+    "name": "KROSS KK 142",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:56:30.109Z",
+    "updatedAt": "2025-12-07T11:56:30.109Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108619324_DHXZYU",
+    "name": "KROSS KK187",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:56:59.324Z",
+    "updatedAt": "2025-12-07T11:56:59.324Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108655403_1I2NC8",
+    "name": "KROSS KK250",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:57:35.403Z",
+    "updatedAt": "2025-12-07T11:57:35.403Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108682358_NDSSVF",
+    "name": "KROOS KK128",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:58:02.358Z",
+    "updatedAt": "2025-12-07T11:58:02.358Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108707264_6716PP",
+    "name": "KROOS KK 176",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:58:27.264Z",
+    "updatedAt": "2025-12-07T11:58:27.264Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108725442_NKOO6L",
+    "name": "KROOS KK155",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:58:45.442Z",
+    "updatedAt": "2025-12-07T11:58:45.442Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108768607_5XPCWJ",
+    "name": "KROOS KK249",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:59:28.607Z",
+    "updatedAt": "2025-12-07T11:59:28.607Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108788031_F7RCUO",
+    "name": "KROOS KK 318",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T11:59:48.031Z",
+    "updatedAt": "2025-12-07T11:59:48.031Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108840194_D0RQMW",
+    "name": "KROOS KK218",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:00:40.194Z",
+    "updatedAt": "2025-12-07T12:00:40.194Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108878725_9GSCTV",
+    "name": "KROOS KK173",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:01:18.725Z",
+    "updatedAt": "2025-12-07T12:01:18.725Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108898129_LXQBH4",
+    "name": "KROOS KK190",
+    "quantity": 2,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:01:38.129Z",
+    "updatedAt": "2025-12-07T12:01:38.129Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108958328_SXWZM5",
+    "name": "KC ZHEEZY PLANET",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:02:38.328Z",
+    "updatedAt": "2025-12-07T12:02:38.328Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765108981548_SRJ2DT",
+    "name": "MAS DIKSHA",
+    "quantity": 6,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:03:01.547Z",
+    "updatedAt": "2025-12-07T12:04:16.474Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109014726_TOWZFG",
+    "name": "MAS PRIY ANKA",
+    "quantity": 8,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:03:34.725Z",
+    "updatedAt": "2025-12-07T12:04:05.062Z",
+    "batchTime": "2025-12-07T12:05:02.443Z",
+    "batchStatus": "PENDING"
   }
 ]
