@@ -174,5 +174,148 @@
     "updatedAt": "2025-12-07T12:04:05.062Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
     "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109768304_M5OL3I",
+    "name": "SNT ORCHID",
+    "quantity": 8,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:16:08.301Z",
+    "updatedAt": "2025-12-07T12:18:37.938Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109794267_CGYOOH",
+    "name": "SANGAM",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:16:34.267Z",
+    "updatedAt": "2025-12-07T12:16:34.267Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109820897_QTOO9L",
+    "name": "SNT ROSE GOLD",
+    "quantity": 8,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:17:00.897Z",
+    "updatedAt": "2025-12-07T12:17:34.504Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109838415_SMOK0H",
+    "name": "SNT KAVITA",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:17:18.415Z",
+    "updatedAt": "2025-12-07T12:17:18.415Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109879092_B6LOQO",
+    "name": "SNT SHABANA",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:17:59.092Z",
+    "updatedAt": "2025-12-07T12:17:59.092Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109941290_ZLVXGQ",
+    "name": "KC TERRY TOUCH",
+    "quantity": 4,
+    "group": "T",
+    "details": "",
+    "timestamp": "2025-12-07T12:19:01.290Z",
+    "updatedAt": "2025-12-07T12:19:08.083Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765109984004_C7AGI2",
+    "name": "KC ROYAL KAHWA",
+    "quantity": 4,
+    "group": "T",
+    "details": "",
+    "timestamp": "2025-12-07T12:19:44.004Z",
+    "updatedAt": "2025-12-07T12:19:44.004Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110030566_L8CD3Y",
+    "name": "FIDA",
+    "quantity": 16,
+    "group": "SC",
+    "details": "",
+    "timestamp": "2025-12-07T12:20:30.566Z",
+    "updatedAt": "2025-12-07T12:20:30.566Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110063291_MYJ1FS",
+    "name": "SEHNAAZ",
+    "quantity": 8,
+    "group": "SC",
+    "details": "",
+    "timestamp": "2025-12-07T12:21:03.291Z",
+    "updatedAt": "2025-12-07T12:22:12.400Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110102924_N502XP",
+    "name": "2 PES",
+    "quantity": 24,
+    "group": "SC",
+    "details": "",
+    "timestamp": "2025-12-07T12:21:42.924Z",
+    "updatedAt": "2025-12-07T12:22:04.470Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110156613_X2VA41",
+    "name": "SNT KAVITA",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:22:36.613Z",
+    "updatedAt": "2025-12-07T12:22:36.613Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110178282_FWZ2S5",
+    "name": "SG JASSI",
+    "quantity": 4,
+    "group": "SC",
+    "details": "",
+    "timestamp": "2025-12-07T12:22:58.282Z",
+    "updatedAt": "2025-12-07T12:22:58.282Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110225024_0B547E",
+    "name": "KC HONEY BITE",
+    "quantity": 3,
+    "group": "P",
+    "details": "",
+    "timestamp": "2025-12-07T12:23:45.024Z",
+    "updatedAt": "2025-12-07T12:23:45.024Z",
+    "batchTime": "2025-12-07T12:23:58.388Z",
+    "batchStatus": "PENDING"
   }
 ]
