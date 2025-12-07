@@ -416,5 +416,126 @@
     "updatedAt": "2025-12-07T12:34:58.598Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
     "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110998377_3RQUP4",
+    "name": "MAS BMW 4",
+    "quantity": 16,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:36:38.377Z",
+    "updatedAt": "2025-12-07T12:38:03.758Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111016906_19J7X3",
+    "name": "MAS ANARKALI",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:36:56.906Z",
+    "updatedAt": "2025-12-07T12:36:56.906Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111066214_S70RGE",
+    "name": "OM SAI JOLLY",
+    "quantity": 8,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:37:46.214Z",
+    "updatedAt": "2025-12-07T12:37:51.994Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111124023_RBPCID",
+    "name": "REHANA",
+    "quantity": 24,
+    "group": "SC",
+    "details": "",
+    "timestamp": "2025-12-07T12:38:44.022Z",
+    "updatedAt": "2025-12-07T12:40:17.159Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111147905_7QGY3G",
+    "name": "KROOS KK 122",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:39:07.905Z",
+    "updatedAt": "2025-12-07T12:39:07.905Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111178739_I5TI74",
+    "name": "KROOS KK 076",
+    "quantity": 3,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:39:38.739Z",
+    "updatedAt": "2025-12-07T12:39:38.739Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111245100_N0UVDQ",
+    "name": "GK RIM ZIM",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:40:45.099Z",
+    "updatedAt": "2025-12-07T12:40:45.099Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111272268_TYJF4I",
+    "name": "GK SEEMAR",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:41:12.268Z",
+    "updatedAt": "2025-12-07T12:41:12.268Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111292341_CSQDWH",
+    "name": "GK DHADKAN",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:41:32.341Z",
+    "updatedAt": "2025-12-07T12:41:32.341Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111314539_IEHGS7",
+    "name": "KROOS KK028",
+    "quantity": 4,
+    "group": "PAKISTANI",
+    "details": "",
+    "timestamp": "2025-12-07T12:41:54.538Z",
+    "updatedAt": "2025-12-07T12:41:54.538Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765111339157_TMXTS8",
+    "name": "SNT KAVITA",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:42:19.157Z",
+    "updatedAt": "2025-12-07T12:42:19.157Z",
+    "batchTime": "2025-12-07T12:42:21.300Z",
+    "batchStatus": "PENDING"
   }
 ]
