@@ -317,5 +317,104 @@
     "updatedAt": "2025-12-07T12:23:45.024Z",
     "batchTime": "2025-12-07T12:23:58.388Z",
     "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110718702_Z39YH4",
+    "name": "MAS DIKSHA",
+    "quantity": 18,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:31:58.699Z",
+    "updatedAt": "2025-12-07T12:31:58.699Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110744646_09LBF0",
+    "name": "KC FLAME BERRY",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:32:24.645Z",
+    "updatedAt": "2025-12-07T12:32:24.645Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110763492_A35ZLM",
+    "name": "KC THANDAI",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:32:43.492Z",
+    "updatedAt": "2025-12-07T12:32:43.492Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110790643_E1GIH0",
+    "name": "KC HAPPY LIFE",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:33:10.643Z",
+    "updatedAt": "2025-12-07T12:33:10.643Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110804794_H36Y49",
+    "name": "KC ZESTY BUTE",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:33:24.794Z",
+    "updatedAt": "2025-12-07T12:33:24.794Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110821604_EH7N62",
+    "name": "KC MIRROR",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:33:41.604Z",
+    "updatedAt": "2025-12-07T12:33:41.604Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110841516_2R5O5G",
+    "name": "KC BLACK MAGIC",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:34:01.516Z",
+    "updatedAt": "2025-12-07T12:34:01.516Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110868294_LLFBYX",
+    "name": "KC JAZBA E ISHQ",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:34:28.294Z",
+    "updatedAt": "2025-12-07T12:34:28.294Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
+  },
+  {
+    "id": "ITEM_1765110898598_V033VR",
+    "name": "KC GOOGLE PAY",
+    "quantity": 4,
+    "group": "S",
+    "details": "",
+    "timestamp": "2025-12-07T12:34:58.598Z",
+    "updatedAt": "2025-12-07T12:34:58.598Z",
+    "batchTime": "2025-12-07T12:35:02.992Z",
+    "batchStatus": "PENDING"
   }
 ]
