@@ -327,7 +327,7 @@
     "timestamp": "2025-12-07T12:31:58.699Z",
     "updatedAt": "2025-12-07T12:31:58.699Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110744646_09LBF0",
@@ -338,7 +338,7 @@
     "timestamp": "2025-12-07T12:32:24.645Z",
     "updatedAt": "2025-12-07T12:32:24.645Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110763492_A35ZLM",
@@ -349,7 +349,7 @@
     "timestamp": "2025-12-07T12:32:43.492Z",
     "updatedAt": "2025-12-07T12:32:43.492Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110790643_E1GIH0",
@@ -360,7 +360,7 @@
     "timestamp": "2025-12-07T12:33:10.643Z",
     "updatedAt": "2025-12-07T12:33:10.643Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110804794_H36Y49",
@@ -371,7 +371,7 @@
     "timestamp": "2025-12-07T12:33:24.794Z",
     "updatedAt": "2025-12-07T12:33:24.794Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110821604_EH7N62",
@@ -382,7 +382,7 @@
     "timestamp": "2025-12-07T12:33:41.604Z",
     "updatedAt": "2025-12-07T12:33:41.604Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110841516_2R5O5G",
@@ -393,7 +393,7 @@
     "timestamp": "2025-12-07T12:34:01.516Z",
     "updatedAt": "2025-12-07T12:34:01.516Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110868294_LLFBYX",
@@ -404,7 +404,7 @@
     "timestamp": "2025-12-07T12:34:28.294Z",
     "updatedAt": "2025-12-07T12:34:28.294Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110898598_V033VR",
@@ -415,7 +415,7 @@
     "timestamp": "2025-12-07T12:34:58.598Z",
     "updatedAt": "2025-12-07T12:34:58.598Z",
     "batchTime": "2025-12-07T12:35:02.992Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765110998377_3RQUP4",
