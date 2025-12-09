@@ -30,7 +30,7 @@
     "timestamp": "2025-12-07T11:56:30.109Z",
     "updatedAt": "2025-12-07T11:56:30.109Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108619324_DHXZYU",
@@ -41,7 +41,7 @@
     "timestamp": "2025-12-07T11:56:59.324Z",
     "updatedAt": "2025-12-07T11:56:59.324Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108655403_1I2NC8",
@@ -52,7 +52,7 @@
     "timestamp": "2025-12-07T11:57:35.403Z",
     "updatedAt": "2025-12-07T11:57:35.403Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108682358_NDSSVF",
@@ -63,7 +63,7 @@
     "timestamp": "2025-12-07T11:58:02.358Z",
     "updatedAt": "2025-12-07T11:58:02.358Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108707264_6716PP",
@@ -74,7 +74,7 @@
     "timestamp": "2025-12-07T11:58:27.264Z",
     "updatedAt": "2025-12-07T11:58:27.264Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108725442_NKOO6L",
@@ -85,7 +85,7 @@
     "timestamp": "2025-12-07T11:58:45.442Z",
     "updatedAt": "2025-12-07T11:58:45.442Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108768607_5XPCWJ",
@@ -96,7 +96,7 @@
     "timestamp": "2025-12-07T11:59:28.607Z",
     "updatedAt": "2025-12-07T11:59:28.607Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108788031_F7RCUO",
@@ -107,7 +107,7 @@
     "timestamp": "2025-12-07T11:59:48.031Z",
     "updatedAt": "2025-12-07T11:59:48.031Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108840194_D0RQMW",
@@ -118,7 +118,7 @@
     "timestamp": "2025-12-07T12:00:40.194Z",
     "updatedAt": "2025-12-07T12:00:40.194Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108878725_9GSCTV",
@@ -129,7 +129,7 @@
     "timestamp": "2025-12-07T12:01:18.725Z",
     "updatedAt": "2025-12-07T12:01:18.725Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108898129_LXQBH4",
@@ -140,7 +140,7 @@
     "timestamp": "2025-12-07T12:01:38.129Z",
     "updatedAt": "2025-12-07T12:01:38.129Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108958328_SXWZM5",
@@ -151,7 +151,7 @@
     "timestamp": "2025-12-07T12:02:38.328Z",
     "updatedAt": "2025-12-07T12:02:38.328Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765108981548_SRJ2DT",
@@ -162,7 +162,7 @@
     "timestamp": "2025-12-07T12:03:01.547Z",
     "updatedAt": "2025-12-07T12:04:16.474Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765109014726_TOWZFG",
@@ -173,7 +173,7 @@
     "timestamp": "2025-12-07T12:03:34.725Z",
     "updatedAt": "2025-12-07T12:04:05.062Z",
     "batchTime": "2025-12-07T12:05:02.443Z",
-    "batchStatus": "PENDING"
+    "batchStatus": "APPROVED"
   },
   {
     "id": "ITEM_1765109768304_M5OL3I",
