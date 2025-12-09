@@ -537,5 +537,18 @@
     "updatedAt": "2025-12-07T12:42:19.157Z",
     "batchTime": "2025-12-07T12:42:21.300Z",
     "batchStatus": "APPROVED"
+  },
+  {
+    "id": "ITEM_1765253592000_XHVEMU",
+    "name": "GSF DUPATTA",
+    "quantity": 450,
+    "group": "DPT",
+    "details": "",
+    "timestamp": "2025-12-09T04:13:11.987Z",
+    "updatedAt": "2025-12-09T04:13:11.987Z",
+    "batchId": "BATCH_1765253594016_U0N5YM",
+    "batchTime": "2025-12-09T04:13:14.015Z",
+    "batchStatus": "PENDING",
+    "batchName": ""
   }
 ]
