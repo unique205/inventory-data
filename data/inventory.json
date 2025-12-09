@@ -563,18 +563,5 @@
     "batchTime": "2025-12-09T04:20:19.899Z",
     "batchStatus": "APPROVED",
     "batchName": "ASTAR"
-  },
-  {
-    "id": "ITEM_1765264520049_5N0FHV",
-    "name": "ASTAR",
-    "quantity": 2,
-    "group": "ASTAR",
-    "details": "",
-    "timestamp": "2025-12-09T07:15:20.043Z",
-    "updatedAt": "2025-12-09T07:15:20.043Z",
-    "batchId": "BATCH_1765264521128_PQA2YC",
-    "batchTime": "2025-12-09T07:15:21.128Z",
-    "batchStatus": "PENDING",
-    "batchName": ""
   }
 ]
